@@ -1,5 +1,7 @@
 # Fund IPNS-Link
 
+[![Contact Us](https://img.shields.io/badge/Email-contact%40ipns.live-blue)](mailto:contact@ipns.live) 
+
 
 
 ## Fiat
