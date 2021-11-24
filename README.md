@@ -4,19 +4,15 @@
 
 Some high-priority areas where serious help is urgently needed are :
 
-### Host public gateways
-
-Volunteers need to host public [IPNS-Link-gateway](https://github.com/ipns-link/ipns-link-gateway)s, to offload https://ipns.live. The public gateways may be crowd-funded. Sponsors and well-wishers may donate using the corresponding link provided at the landing page of every gateway. Create a [PR](https://github.com/ipns-link/gateway-registry/pulls) to register your gateway with us.
-
 ### Port the codebase to Go, JS etc.
 
 The current implementations, being prototypes, have been rather hurriedly hacked with Bash. That they still work, simply tells how better things would be once the codebase is ported to Go, JS etc. So, volunteer developers are needed. Implementing the Gateway in Go is rather urgent.
 
 If are willing to work on it, create an issue [here](https://github.com/ipns-link/contribute/issues) to let us know of your project. For your implementation, you can follow the [specs](https://github.com/ipns-link/specs/blob/main/specs.md), which you are welcome to discuss, criticize, improve upon and contribute to, and reference the existing [version](https://github.com/ipns-link/ipns-link-gateway).
 
-### Design a homepage
+### Host public gateways
 
-The [project](https://github.com/ipns-link) lacks a decent homepage. Build one and create a [PR](https://github.com/ipns-link/contribute/pulls).
+Volunteers need to host public [IPNS-Link-gateway](https://github.com/ipns-link/ipns-link-gateway)s, to offload https://ipns.live. The public gateways may be crowd-funded. Sponsors and well-wishers may donate using the corresponding link provided at the landing page of every gateway. Create a [PR](https://github.com/ipns-link/gateway-registry/pulls) to register your gateway with us.
 
 ### Host public relays
 
