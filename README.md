@@ -4,11 +4,11 @@
 
 Some high-priority areas where serious help is urgently needed are :
 
-### Port the codebase to Go, JS etc.
+### Port the codebase to Go
 
-The current implementations, being prototypes, have been rather hurriedly hacked with Bash. That they still work, simply tells how better things would be once the codebase is ported to Go, JS etc. So, volunteer developers are needed. Implementing the Gateway in Go is rather urgent.
+The current implementations, being prototypes, have been rather hurriedly hacked with Bash. That they still work, simply tells how better things would be once the codebase is ported to Go. So, volunteer developers are needed. Implementing the [Gateway](https://github.com/ipns-link/ipns-link-gateway) in Go is rather urgent.
 
-If are willing to work on it, create an issue [here](https://github.com/ipns-link/contribute/issues) to let us know of your project. For your implementation, you can follow the [specs](https://github.com/ipns-link/specs/blob/main/specs.md), which you are welcome to discuss, criticize, improve upon and contribute to, and reference the existing [version](https://github.com/ipns-link/ipns-link-gateway).
+If you are willing to work on it, create an issue [here](https://github.com/ipns-link/contribute/issues) to let us know of your project. For your implementation, you can follow the [specs](https://github.com/ipns-link/specs/blob/main/specs.md), which you are welcome to discuss, criticize, improve upon and contribute to. Also consult the existing bash [implementation](https://github.com/ipns-link/ipns-link-gateway), if needed.
 
 ### Host public gateways
 
