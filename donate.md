@@ -25,6 +25,10 @@
 
 DLtPZTbguk8GKofDPAJ5S5BRsjSsGLd6iz ![img](qr_codes/DLtPZTbguk8GKofDPAJ5S5BRsjSsGLd6iz.png) 
 
+### Nano
+
+nano_1kbs1tdnno8pe4dmcwe9au17gcf6bjeqzat8xx7ug4hyz9qhs4cemanf6mwy ![img](qr_codes/nano_1kbs1tdnno8pe4dmcwe9au17gcf6bjeqzat8xx7ug4hyz9qhs4cemanf6mwy.png) 
+
 ### Litecoin
 
 LfEAW45r8TNTKa9TpGsai7QmSeXF2Mj3oB ![img](qr_codes/LfEAW45r8TNTKa9TpGsai7QmSeXF2Mj3oB.png) 
