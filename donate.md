@@ -12,28 +12,55 @@
 
 ## Crypto
 
-### Bitcoin
 
-1. bc1qgpsx3mehlufeml933pw7gqxh0ul0el57c08tfx ![img](/qr_codes/bc1qgpsx3mehlufeml933pw7gqxh0ul0el57c08tfx.png) 
-2. 1JasPbgknuGpJL3weVskb2gHZPbGW6toHx ![img](qr_codes/1JasPbgknuGpJL3weVskb2gHZPbGW6toHx.png) 
 
-### Dogecoin
+### Bitcoin (BTC)
 
-DLtPZTbguk8GKofDPAJ5S5BRsjSsGLd6iz ![img](qr_codes/DLtPZTbguk8GKofDPAJ5S5BRsjSsGLd6iz.png) 
+bc1qqzrdzlqr7yv3ph8gmygtacpjcrsxf56wyy3hp7 ![img](qr_codes/bc1qqzrdzlqr7yv3ph8gmygtacpjcrsxf56wyy3hp7.png) 
 
-### Nano
+14Rti6DxVr1TCvyu2m9mgFXBwPS5kcHifu ![img](qr_codes/14Rti6DxVr1TCvyu2m9mgFXBwPS5kcHifu.png) 
 
-nano_16xursoh6s9nzrxmd8kmczx8izkq5hrgs6knw7ymaxpr16p6pz5bga4n968d ![img](qr_codes/nano_16xursoh6s9nzrxmd8kmczx8izkq5hrgs6knw7ymaxpr16p6pz5bga4n968d.png)
 
-nano_1kbs1tdnno8pe4dmcwe9au17gcf6bjeqzat8xx7ug4hyz9qhs4cemanf6mwy ![img](qr_codes/nano_1kbs1tdnno8pe4dmcwe9au17gcf6bjeqzat8xx7ug4hyz9qhs4cemanf6mwy.png) 
 
-### Litecoin
+### Ethereum (ETH)
 
-LfEAW45r8TNTKa9TpGsai7QmSeXF2Mj3oB ![img](qr_codes/LfEAW45r8TNTKa9TpGsai7QmSeXF2Mj3oB.png) 
+0xc22efAEde76D69D57EB823E25fccA6F4c8Bda768 ![img](qr_codes/0xc22efAEde76D69D57EB823E25fccA6F4c8Bda768.png) 
 
-### Binance Coin (BNB)
 
-bnb1k4dtuk5kf7nmh9dfu8zykr8kyncy8tw59m27ry ![img](qr_codes/bnb1k4dtuk5kf7nmh9dfu8zykr8kyncy8tw59m27ry.png) 
 
- 
+### Bitcoin Cash (BCH)
+
+qzzysgzcqy6yflgqczjndqadcns5l382tuuz4s67tc ![img](qr_codes/qzzysgzcqy6yflgqczjndqadcns5l382tuuz4s67tc.png) 
+
+
+
+### Nano (NANO)
+
+nano_34tfp39x7smm7sap4dc8g57epy9x3cf7c1hcjaxnjaax6mcitfw3rfa7t1hs ![img](qr_codes/nano_34tfp39x7smm7sap4dc8g57epy9x3cf7c1hcjaxnjaax6mcitfw3rfa7t1hs.png)
+
+
+
+### Dogecoin (DOGE)
+
+DP9Msy6vyBKAgTayH3uUH5EZJS7tcfUnPA ![img](qr_codes/DP9Msy6vyBKAgTayH3uUH5EZJS7tcfUnPA.png) 
+
+
+
+### Litecoin (LTC)
+
+LbSpzikxtH15Dn5wfHhrsm3S5375fqkn5d ![img](qr_codes/LbSpzikxtH15Dn5wfHhrsm3S5375fqkn5d.png)
+
+
+
+### Monero (XMR)
+
+44jtc5zbcWvJpm3CssaYEK3EFojZdrQFmWrz8KtNNU35PyfpCb31kqRYvcZRYAqCNNTixzDULtf8bH7RkekMgeca1oPxBqf ![img](qr_codes/44jtc5zbcWvJpm3CssaYEK3EFojZdrQFmWrz8KtNNU35PyfpCb31kqRYvcZRYAqCNNTixzDULtf8bH7RkekMgeca1oPxBqf.png) 
+
+
+
+### Filecoin (FIL)
+
+f1naw3qfcwewx7b2z6rjkv4vl3oei4or5lhu7ab2i ![img](qr_codes/f1naw3qfcwewx7b2z6rjkv4vl3oei4or5lhu7ab2i.png) 
+
+
 
