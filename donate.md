@@ -6,7 +6,7 @@
 
 ## Fiat
 
-[![Sponsor](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://buymeacoffee.com/SomajitDey) ![BMC-QR](/qr_codes/bmc_QR.png)
+PayPal - Coming soon
 
 
 
