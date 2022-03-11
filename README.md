@@ -49,5 +49,5 @@ Share and promote [IPNS-Link](https://github.com/ipns-link/specs). Write a blog 
 
 [![Reddit](https://img.shields.io/badge/Reddit-r%2Fipns__link-cyan)](https://www.reddit.com/r/ipns_link/) 
 
-[![Contact Us](https://img.shields.io/badge/Email-contact%40ipns.live-blue)](mailto:contact@ipns.live) 
+[![Contact Us](https://img.shields.io/badge/Email-contact%40ipns.live-blue)](mailto:contact@ipnslink.com) 
 
