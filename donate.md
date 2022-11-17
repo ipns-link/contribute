@@ -1,6 +1,6 @@
 # Fund IPNS-Link
 
-[![Contact Us](https://img.shields.io/badge/Email-contact%40ipns.live-blue)](mailto:contact@ipnslink.com) 
+[![Contact Us](https://img.shields.io/badge/Email-contact%40ipnslink.com-blue)](mailto:contact@ipnslink.com) 
 
 
 
